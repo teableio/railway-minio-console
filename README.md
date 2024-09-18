@@ -52,5 +52,3 @@ This command will start the MinIO Console on port 9001 and automatically create 
 
 This project is licensed under the MIT License.
 
-
-通过这种方式，你可以确保在容器重复运行时不会重复创建已存在的 bucket，并且可以成功启动。README 文件提供了构建和运行 Docker 镜像的详细说明。
